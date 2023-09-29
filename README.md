@@ -7,7 +7,6 @@ Intro to SkyVision: Short description of who is doing the work, who funded it. F
 2. Open-Sourced machine learning models for aviation safety:
 <!-- Contributions instructions -->
 ## Crowdsourcing Initiative: Flight Simulator Dataset for General Aviation Scene Understanding
-FILL IN THE DEETS HERE
 ### Dataset : Demonstrative Examples 
 
 ### Instructions to use the provided addon for data collection
