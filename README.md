@@ -6,7 +6,7 @@ Intro to SkyVision: Short description of who is doing the work, who funded it. F
 1. Public Contributions: Collection of a large dataset of images from Microsoft Flight Simulator from general aviation aircraft:
 2. Open-Sourced machine learning models for aviation safety:
 <!-- Contributions instructions -->
-## Crowdsourcing Initiative: Flight Simulator Dataset for General Aviation Scene Understanding
+## Contributing: Flight Simulator Dataset for General Aviation Scene Understanding
 ### Dataset : Demonstrative Examples 
 
 ### Instructions to use the provided addon for data collection
